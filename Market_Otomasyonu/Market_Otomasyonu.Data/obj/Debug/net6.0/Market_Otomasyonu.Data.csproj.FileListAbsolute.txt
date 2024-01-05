@@ -1,0 +1,17 @@
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\bin\Debug\net6.0\Market_Otomasyonu.Data.deps.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\bin\Debug\net6.0\Market_Otomasyonu.Data.runtimeconfig.json
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\bin\Debug\net6.0\Market_Otomasyonu.Data.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\bin\Debug\net6.0\Market_Otomasyonu.Data.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\bin\Debug\net6.0\Market_Otomasyonu.Entity.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\bin\Debug\net6.0\Market_Otomasyonu.Entity.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\obj\Debug\net6.0\Market_Otomasyonu.Data.csproj.AssemblyReference.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\obj\Debug\net6.0\Market_Otomasyonu.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\obj\Debug\net6.0\Market_Otomasyonu.Data.AssemblyInfoInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\obj\Debug\net6.0\Market_Otomasyonu.Data.AssemblyInfo.cs
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\obj\Debug\net6.0\Market_Otomasyonu.Data.csproj.CoreCompileInputs.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\obj\Debug\net6.0\Market_Otomasyonu.Data.csproj.CopyComplete
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\obj\Debug\net6.0\Market_Otomasyonu.Data.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\obj\Debug\net6.0\refint\Market_Otomasyonu.Data.dll
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\obj\Debug\net6.0\Market_Otomasyonu.Data.pdb
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\obj\Debug\net6.0\Market_Otomasyonu.Data.genruntimeconfig.cache
+C:\Users\Enes Fevzi\Desktop\BİLGE ADAM BOOST\Market Uygulaması\Market_Otomasyonu\Market_Otomasyonu.Data\obj\Debug\net6.0\ref\Market_Otomasyonu.Data.dll
